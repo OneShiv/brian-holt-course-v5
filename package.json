@@ -1,0 +1,29 @@
+{
+  "name": "brain-holt",
+  "version": "1.0.0",
+  "description": "v5 rect course",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint \"src/**/*.{js,jsx}\" --quiet",
+    "format": "prettier \"src/**/*.{js,html,jsx}\" --write",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OneShiv/brian-holt-course-v5.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "shivshankar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OneShiv/brian-holt-course-v5/issues"
+  },
+  "homepage": "https://github.com/OneShiv/brian-holt-course-v5#readme",
+  "devDependencies": {
+    "eslint": "^6.0.1",
+    "eslint-config-prettier": "^6.0.0",
+    "prettier": "^1.18.2"
+  }
+}
